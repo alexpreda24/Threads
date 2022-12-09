@@ -1,0 +1,25 @@
+Preda Ioan Alexandru
+
+Ordonare:
+In functia aceasta vom avea ca parametrii coada de waiting si Task-ul 
+pe care il avem de inserat.Extragem din lista fiecare element de tip Task.
+Vom compara Task-ul dat ca parametru cu cel extras din coada si il vom insera in 
+coada auxiliara inaintea Task-ului din coada. Daca nu indeplineste conditiile din 
+if-uri atunci se va insera la sfarsit in coada auxuliara
+
+afisare:
+Functia de afisare va parcurge coada de afisare,iar elemenetele extrase din coada
+initiala vor fi bagate intr-o coaa auxiliara apoi puse inapoi in coada initiala.
+
+printtask:
+Atribuie fiecarui task cate un ID si timpul de executie si prioritate,apoi se ordoneaza 
+ in coada folosindu-se de functia ordonata.
+
+ gettask:
+ verifica in functie de ID-ul primit in ce stadiu se afla task-ul: in asteptare,in running stadiu
+ finalizat
+
+ getthread:
+ verifica daca ID-ul se gaseste in elementele stiva de threaduri
+
+ Am obtinut 90 de puncte pe local
