@@ -1,4 +1,3 @@
-//Preda Ioan Alexandru-313CB
 #include "TCoada.h"
 #include "TStiva.h"
 
