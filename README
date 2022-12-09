@@ -21,5 +21,3 @@ Atribuie fiecarui task cate un ID si timpul de executie si prioritate,apoi se or
 
  getthread:
  verifica daca ID-ul se gaseste in elementele stiva de threaduri
-
- Am obtinut 90 de puncte pe local
